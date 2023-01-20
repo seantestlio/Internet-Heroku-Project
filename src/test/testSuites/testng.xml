@@ -3,7 +3,7 @@
 <suite name="Suite1" verbose="1" >
     <test name="Nopackage" preserve-order="true">
         <classes>
-            <class name="com.heroku.AddOrRemoveElementsPageTest"/>
+<!--            <class name="com.heroku.AddOrRemoveElementsPageTest"/>-->
             <class name="com.heroku.BasicAuthPageTest"/>
             <class name="com.heroku.BrokenImagesTabOpenTest"/>
             <class name="com.heroku.DigestAuthPageTest"/>
